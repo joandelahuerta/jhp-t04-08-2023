@@ -1,0 +1,28 @@
+div{
+    border-style: outset;
+    width: 600px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td {
+    border: solid;
+    border-color: rgb(67, 150, 245);
+    padding-right: 6px;
+    background-color: Lightgreen;
+    padding-bottom: 4px;
+}
+th{
+    text-align: center;
+    color: Lightgreen;
+    border: solid;
+    border-color: rgb(67, 150, 245);
+    font-weight: 1000;
+    background-color:rgb(25, 75, 47) !important;
+    padding-right: 6px;
+    padding-bottom: 4px;
+}
+.musculacion {
+    background-color:rgb(128, 192, 128) !important;
+}
