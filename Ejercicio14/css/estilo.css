@@ -1,11 +1,15 @@
-h1{
-    font-size: small;
-    width: 600px;
+.container{
+    position:relative;
     text-align: center;
+    
 }
-div{
+.celdas{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     border-style: outset;
-    width: 600px;
+    width: 900px;
 }
 table{
     border-collapse: collapse;
@@ -13,19 +17,21 @@ table{
     text-align: center;
 }
 td {
-    border-style: solid;
+    border-style: outset;
     border-color:rgb(192, 192, 191);
     padding-right: 6px;
     padding-bottom: 4px;
-    border-width: 2px;
+    border-width: 3px;
+    font-weight: 1000;
+    background-color: khaki;
 }
 th{
     text-align: center;
-    border-style: solid;
+    border-style: outset;
     border-color: rgb(192, 192, 191);
     font-weight: 1000;
-    background-color: palegreen;
+    background-color: white;
     padding-right: 6px;
     padding-bottom: 4px;
-    border-width: 2px;
+    border-width: 3px;
 }
