@@ -1,0 +1,31 @@
+h1{
+    font-size: small;
+    width: 600px;
+    text-align: center;
+}
+div{
+    border-style: outset;
+    width: 600px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+td {
+    border-style: solid;
+    border-color:rgb(192, 192, 191);
+    padding-right: 6px;
+    padding-bottom: 4px;
+    border-width: 2px;
+}
+th{
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(192, 192, 191);
+    font-weight: 1000;
+    background-color: palegreen;
+    padding-right: 6px;
+    padding-bottom: 4px;
+    border-width: 2px;
+}
