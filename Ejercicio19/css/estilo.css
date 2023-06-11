@@ -1,0 +1,13 @@
+table,th, td{
+    border-style: solid;
+    border-width: 1px;
+}
+tr>:nth-child(1){
+    text-align: left;
+}
+.pais{
+    text-align: center !important;
+}
+tr:nth-child(3) {
+    font-weight: bold;
+}

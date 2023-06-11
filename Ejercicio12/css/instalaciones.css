@@ -1,13 +1,13 @@
 div{
     border-style: outset;
-    width: 600px;
+    width: 400px;
 }
 table{
     border-collapse: collapse;
     width: 100%;
 }
-td {
-    border: solid;
+th, td {
+    border: inset;
     border-color: rgb(67, 150, 245);
     padding-right: 6px;
     background-color: Lightgreen;
@@ -16,13 +16,12 @@ td {
 th{
     text-align: center;
     color: Lightgreen;
-    border: solid;
-    border-color: rgb(67, 150, 245);
     font-weight: 1000;
     background-color:rgb(25, 75, 47) !important;
-    padding-right: 6px;
-    padding-bottom: 4px;
 }
 .musculacion {
     background-color:rgb(128, 192, 128) !important;
+}
+tr>:nth-child(2){
+    text-align: center;
 }

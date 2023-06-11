@@ -1,0 +1,31 @@
+div{
+    border-style: outset;
+    width: 900px;
+}
+table{
+    width: 100%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(158, 77, 52);
+}
+.titulo{
+    background-color: rgba(98, 158, 98, 0.979) !important;
+    color: rgb(122, 59, 40) !important;
+}
+th{
+    border-style: inset;
+    background-color: rgb(255, 215, 166);
+    padding-right: 6px;
+    padding-bottom: 4px;
+    border-width: 3px;
+}
+.perro{
+    background-color: khaki;
+}
+td {
+    border-style: inset;
+    padding-right: 6px;
+    padding-bottom: 4px;
+    border-width: 3px;
+    font-weight: 600;
+}

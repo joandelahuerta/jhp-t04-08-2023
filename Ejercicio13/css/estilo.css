@@ -8,27 +8,19 @@ div{
     width: 900px;
 }
 table{
-    border-collapse: collapse;
     width: 100%;
     text-align: center;
+    border-color:rgb(165, 165, 165);
 }
-td {
-    border-style: outset;
-    border-color:rgb(192, 192, 191);
+td, th {
+    border-style: inset;
     padding-right: 6px;
     padding-bottom: 4px;
     border-width: 2px;
     font-weight: 1000;
 }
 th{
-    text-align: center;
-    border-style: outset;
-    border-color: rgb(192, 192, 191);
-    font-weight: 1000;
     background-color: palegreen;
-    padding-right: 6px;
-    padding-bottom: 4px;
-    border-width: 2px;
 }
 .celda2{
     background-color: aqua;

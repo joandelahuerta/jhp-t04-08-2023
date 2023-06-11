@@ -12,12 +12,11 @@
     width: 900px;
 }
 table{
-    border-collapse: collapse;
     width: 100%;
     text-align: center;
 }
 td {
-    border-style: outset;
+    border-style: inset;
     border-color:rgb(192, 192, 191);
     padding-right: 6px;
     padding-bottom: 4px;
@@ -27,7 +26,7 @@ td {
 }
 th{
     text-align: center;
-    border-style: outset;
+    border-style: inset;
     border-color: rgb(192, 192, 191);
     font-weight: 1000;
     background-color: white;

@@ -1,0 +1,74 @@
+.div1{
+    position: relative;
+    border-style: solid;
+    border-color: blue;
+    width: 239px;
+    height: 113px;
+    background-image: url("../img/f01.png");
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-color: skyblue;
+    margin: 25px;
+}
+.div1f02 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.div1f03 {
+    position: relative;
+    left: 0;
+    bottom: 0;
+}
+.div2{
+    position: relative;
+    border-style: solid;
+    border-color: red;
+    width: 479px;
+    height: 452px;
+    background-image: url("../img/f01.png");
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-color: skyblue;
+    margin: 25px;
+}
+.div2f02 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+p{
+    position: absolute;
+}
+.div2f03 {
+    position: relative;
+    left: 0;
+    bottom: 0;
+}
+.div2f03-1 {
+    position: absolute;
+    float: right;
+    top: 0%;
+}
+.div3{
+    position: relative;
+    border-style: solid;
+    border-color: blue;
+    width: 239px;
+    height: 113px;
+    background-image: url("../img/f01.png");
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-color: skyblue;
+    margin: 25px;
+}
+.div3f02 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.div3f03 {
+    position: relative;
+    left: 0;
+    bottom: 0;
+}
