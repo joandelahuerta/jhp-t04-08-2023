@@ -9,7 +9,6 @@ div{
     border-color: black;
     width: 250px;
     height: 250px;
-    background-size: 28px;
     margin: 40px;
 }
 h1{
@@ -22,8 +21,6 @@ h1{
     height: 180px;
     width: 180px;
     position: absolute;
-    top: 0; right: 0; bottom: 0; left: 0;
-    margin: auto;
     background-image: url("../img/back_mantel.jpg");
     background-size: 30px;
     border-style: none !important;
