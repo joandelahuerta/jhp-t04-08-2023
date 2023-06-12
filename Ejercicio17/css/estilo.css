@@ -1,0 +1,82 @@
+body{
+    width: 1500px;
+    background-image: url("../img/ac.jpg");
+}
+div{
+    position: relative;
+    float: left;
+    border-style: solid;
+    border-color: black;
+    width: 250px;
+    height: 250px;
+    background-size: 28px;
+    margin: 40px;
+}
+h1{
+    text-align: center;
+}
+.div1{
+    background-image: url("../img/back_mantel.jpg");
+}
+.div2img{
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    margin: auto;
+    background-image: url("../img/back_mantel.jpg");
+    background-size: 30px;
+    border-style: none !important;
+}
+.div3{
+    background-image: url("../img/back_mantel.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.div4{
+    background-color:aliceblue;
+    background-image: url("../img/back_mantel.jpg");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center;
+}
+
+.div5{
+    background-image: url("../img/dh.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.div6{
+    background-color:aliceblue;
+    background-image: url("../img/dh.jpg");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center;
+}
+
+.div7{
+    background-color:aliceblue;
+    background-image: url("../img/dh_2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.div8{
+    background-color:aliceblue;
+    background-image: url("../img/dh_3.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+.div9{
+    background: linear-gradient(260deg, rgba(87,83,83,1) 0%, rgba(159,214,52,1) 99%);
+}
+.div10{
+    background: linear-gradient(180deg, rgba(205,170,139,1) 0%, rgba(120,39,4,1) 80%, rgba(205,170,139,1) 99%);
+}
+.div11{
+    background: linear-gradient(180deg, rgba(190,224,181,1) 0%, rgba(90,214,52,1) 99%);
+}
+.div12{
+    background: linear-gradient(180deg, rgba(31,119,9,0) 0%, rgba(30,121,2,1) 99%);
+}
