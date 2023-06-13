@@ -17,13 +17,12 @@ h1{
 .div1{
     background-image: url("../img/back_mantel.jpg");
 }
-.div2img{
-    height: 180px;
-    width: 180px;
-    position: absolute;
+.div2{
     background-image: url("../img/back_mantel.jpg");
-    background-size: 30px;
-    border-style: none !important;
+    background-clip: content-box;
+    padding: 30px;
+    width: 150px;
+    height: 150px;
 }
 .div3{
     background-image: url("../img/back_mantel.jpg");
