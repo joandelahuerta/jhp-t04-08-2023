@@ -21,8 +21,8 @@ h1{
     background-image: url("../img/back_mantel.jpg");
     background-clip: content-box;
     padding: 30px;
-    width: 150px;
-    height: 150px;
+    width: 190px;
+    height: 190px;
 }
 .div3{
     background-image: url("../img/back_mantel.jpg");
@@ -36,7 +36,6 @@ h1{
     background-size: 80%;
     background-position: center;
 }
-
 .div5{
     background-image: url("../img/dh.jpg");
     background-repeat: no-repeat;
@@ -49,7 +48,6 @@ h1{
     background-size: 80%;
     background-position: center;
 }
-
 .div7{
     background-color:aliceblue;
     background-image: url("../img/dh_2.jpg");
